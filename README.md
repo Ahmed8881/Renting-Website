@@ -10,8 +10,8 @@ A simple single-page web application for renting scooters. Built using Angular a
 
 ## Screenshot
 
-![Scooter Renting Website](![image](https://github.com/user-attachments/assets/c8cebb38-ed65-4487-8826-bdae31a34a5a)
-)
+![image](https://github.com/user-attachments/assets/b52ea9f7-c8ef-4e5b-8b23-b1d7321de65a)
+
 
 ## Installation
 
