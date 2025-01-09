@@ -27,3 +27,16 @@
     top: 12%;
     right: 9%;
 }
+.circle{
+    border-radius: 50%;
+    height: 9rem;
+    width: 10rem;
+    border: 10px solid #FCE6CE;
+    z-index: 1;
+    position: absolute;
+    right: 25%;
+    z-index: 1;
+}
+.text{
+    position: absolute;
+}
